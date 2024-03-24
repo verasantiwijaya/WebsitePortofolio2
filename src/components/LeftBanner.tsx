@@ -6,8 +6,8 @@ const LeftBanner = () => {
   const [text] = useTypewriter({
     words: ["Student.", "Designer.", "Developer."],
     loop: true,
-    typeSpeed: 10,
-    deleteSpeed: 10,
+    typeSpeed: 100,
+    deleteSpeed: 100,
     delaySpeed: 3000,
   });
   return (
@@ -16,7 +16,7 @@ const LeftBanner = () => {
         <h4 className=" text-lg font-normal">Vera Wijaya</h4>
         <h1 className="text-6xl font-bold text-white">
           Hi, I'm <span className="text-designColor capitalize">{text}</span>
-          <Cursor cursorStyle="|" cursorColor="#ff014f" />
+          <Cursor cursorStyle="|" cursorColor="#0ccfb1" />
         </h1>
         <p className="text-base font-bodyFont leading-7 tracking-wider">
         Seorang mahasiswa Sistem Informasi semester 4, bersemangat dan berdedikasi tinggi 

@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         bodyFont: ["Poppins", "sans-serif"],
-        titleFont: ["Montserrat", "sans-serif"],
+        titleFont: ["Poppins", "sans-serif"],
       },
       screens: {
         xs: "320px",
@@ -21,7 +21,7 @@ export default {
         bodyColor: "#0B1120",
         lightText: "#c4cfde",
         boxBg: "linear-gradient(145deg, #1e2024, #23272b)",
-        designColor: "#ff014f",
+        designColor: "#0ccfb1",
       },
       boxShadow: {
         shadowOne: "10px 10px 19px #030712, -10px -10px 19px #0f172a",

@@ -42,22 +42,22 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[800px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Sr. Software Engineer"
-            subTitle="Google Out Tech - (2017 - Present)"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            title="Sektetaris Panitia"
+            subTitle="Inforsa Event - (2023)"
+            result="berakhir"
+            des="Menjadi sekretaris kepanitian, membuat saya belajar banyak tentang koordinasi, manajemen waktu, dan komunikasi "
           />
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (2012 - 2016)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            title="Sekretaris Departemen"
+            subTitle="INFORSA dept. Personalia- (2022 - 2023)"
+            result="berakhir"
+            des="Berpengalaman dalam mengelola berbagai aspek administratif dan mengkoordinasikan pertemuan."
           />
           <ResumeCard
-            title="Front-end Developer"
-            subTitle="Nike - (2020 - 2011)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            title="Praktisi Mata Kuliah ASD"
+            subTitle="Lab Arsitek - (2024)"
+            result="berlanjut"
+            des="Berpengalaman mengaplikasikan teori ke dalam praktik secara langsung, serta memfasilitasi pemahaman mendalam siswa terhadap materi."
           />
         </div>
       </div>
