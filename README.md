@@ -13,5 +13,23 @@
 
 ![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/5db0c101-8575-4555-bc9f-55e0c8126108)
 
+
+## RESPONSIVE WEBSITE
 ![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/8e9b4863-4e3a-4298-bbb4-36cb582fae1b)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/2008a412-bf42-440a-81c9-a60cc3f4e33c)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/8f848adb-fbe1-4335-9e14-ee9a7d270238)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/8bec17ac-2b1e-45a2-9122-1617afdf9b0e)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/e22b25bd-977c-4d7e-a3bc-da9d19ce67b9)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/0c86e93f-6f2c-4f2e-a38c-af155225859c)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/80853f01-29af-4884-a1b4-0e898f5682b7)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/de79b2a8-bb0f-4625-914c-88e67a7b468e)
+
+![image](https://github.com/verasantiwijaya/WebsitePortofolio2/assets/122012870/552c3ae3-f4a1-456e-b77d-fbaf116c67f1)
 
